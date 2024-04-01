@@ -1,0 +1,17 @@
+# Credits : https://t.me/neverendinginsanity
+# Contact : https://t.me/natxsupport_bot
+# Portal : https://t.me/monkeyportal69
+
+[telegram]
+# Get your API ID/HASH from https://my.telegram.org/auth
+
+phone_number="" #Example: +1 367688367
+api_id= # API ID
+api_hash="" #API HASH
+
+[sending]
+# The send interval is how long you want to wait between sending messages.
+# The loop interval is how long you want to wait before re-sending messages to all the groups.
+
+send_interval=2 # delay to send each group
+loop_interval=3600 # 3600 = 1 hour
