@@ -10,8 +10,8 @@ This Python script automates the process of forwarding messages to multiple Tele
 
 ## Usage
 
-1. Clone the repository or download the script `main.py`.
-2. Make sure you have the required dependencies installed.
+1. Clone the repository.
+2. Make sure you have the required dependencies installed or install them by doing 'pip3 install -r requirements.txt' in your terminal.
 3. Edit the `config.toml` file with your Telegram API credentials and adjust sending settings if needed.
 4. Run the script by executing `python main.py`.
 5. Follow the on-screen instructions to join groups, select the message to forward, and choose target groups.
