@@ -23,12 +23,6 @@ This Python script automates the process of forwarding messages to multiple Tele
 - Customizable settings for send interval and loop interval.
 - Interactive setup process for selecting messages and target groups.
 
-## Support and Contact
-
-- **Credits**: [neverendinginsanity](https://t.me/neverendinginsanity)
-- **Contact**: [natxsupport_bot](https://t.me/natxsupport_bot)
-- **Portal**: [monkeyportal69](https://t.me/monkeyportal69)
-
 ## Disclaimer
 
 This script is provided for educational purposes only. Usage of this script for any unauthorized or malicious activities is strictly prohibited. The developers are not responsible for any misuse of this script.
